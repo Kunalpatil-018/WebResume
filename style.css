@@ -1,0 +1,38 @@
+
+.rw{
+    text-align: center;
+}
+.kgp{
+    background-color: rgb(139, 239, 242);
+    padding: 15px;
+    border-radius: 20px;
+    margin: 20px;
+}
+.edu{
+    background-color: rgb(179, 255, 179);
+    padding: 25px;
+    border-radius: 20px;
+    margin: 20px;
+}
+.skills{
+    background-color: rgb(255, 179, 179);
+    padding: 25px;
+    border-radius: 20px;
+    margin: 20px;
+}
+.list
+{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.connect{
+    background-color: rgb(255, 223, 179);
+    padding: 25px;
+    border-radius: 20px;
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: rgb(27, 53, 220);
+}
